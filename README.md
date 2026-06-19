@@ -150,27 +150,27 @@ http://127.0.0.1:8000
 Add screenshots of your application here, for example:
 
 * Home Page
-* <img width="1503" height="728" alt="image" src="https://github.com/user-attachments/assets/77fc648a-0265-4fdc-8e51-3579566e4075" />
+<img width="1503" height="728" alt="image" src="https://github.com/user-attachments/assets/77fc648a-0265-4fdc-8e51-3579566e4075" />
 <img width="1506" height="730" alt="image" src="https://github.com/user-attachments/assets/6c875256-e2c0-459a-9271-3ba14fa45ba5" />
 <img width="1503" height="730" alt="image" src="https://github.com/user-attachments/assets/d7c14328-3930-41b8-a3fc-ea559744ce4a" />
 <img width="1517" height="732" alt="image" src="https://github.com/user-attachments/assets/e6824b64-c5f6-43ab-bc5e-a6bb07bf839d" />
 
 * Product Listing
-* <img width="1531" height="735" alt="image" src="https://github.com/user-attachments/assets/53dd62ae-04b3-410a-82a4-63f44feeb21e" />
+<img width="1531" height="735" alt="image" src="https://github.com/user-attachments/assets/53dd62ae-04b3-410a-82a4-63f44feeb21e" />
 
 * Product Details
-* <img width="1532" height="732" alt="image" src="https://github.com/user-attachments/assets/74c2fafb-f2ab-42da-9cbb-5f6a76e9ad65" />
+<img width="1532" height="732" alt="image" src="https://github.com/user-attachments/assets/74c2fafb-f2ab-42da-9cbb-5f6a76e9ad65" />
 <img width="1531" height="736" alt="image" src="https://github.com/user-attachments/assets/9d4c2e85-0171-4405-bbda-111869538554" />
 <img width="1532" height="732" alt="image" src="https://github.com/user-attachments/assets/f671295b-6409-434d-a9a2-f3fa911a6c9f" />
 
 * Contact us
-* <img width="1530" height="735" alt="image" src="https://github.com/user-attachments/assets/8c9507bd-480a-4081-8472-809f6af6c8eb" />
+<img width="1530" height="735" alt="image" src="https://github.com/user-attachments/assets/8c9507bd-480a-4081-8472-809f6af6c8eb" />
 
 * Shopping Cart
-* <img width="1530" height="737" alt="image" src="https://github.com/user-attachments/assets/d209ccb4-d49d-4485-a1e0-4468d4add748" />
+<img width="1530" height="737" alt="image" src="https://github.com/user-attachments/assets/d209ccb4-d49d-4485-a1e0-4468d4add748" />
 
 * Login & Registration
-* <img width="1512" height="723" alt="image" src="https://github.com/user-attachments/assets/ad8adc56-991b-42bb-b424-a79b0e9d7f3a" />
+<img width="1512" height="723" alt="image" src="https://github.com/user-attachments/assets/ad8adc56-991b-42bb-b424-a79b0e9d7f3a" />
 
 * Checkout
 <img width="1526" height="737" alt="image" src="https://github.com/user-attachments/assets/a04039c4-bc7d-43a0-ad17-c816947f850d" />
